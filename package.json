@@ -1,0 +1,17 @@
+{
+  "name": "slack2slack",
+  "version": "0.0.1",
+  "description": "middleman for communications between two slack boards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "kyle burke",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^5.1.0"
+  }
+}
